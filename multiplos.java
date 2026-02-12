@@ -10,5 +10,5 @@ public static void multiplos (int numeroMax) {
              System.out.println("Multiplo de 100:" +i)
         }
     }
-    //Esto es un comentario
+    //Esto es otro comentario
 }
